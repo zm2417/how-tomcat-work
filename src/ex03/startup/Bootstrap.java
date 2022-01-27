@@ -1,6 +1,6 @@
 package ex03.startup;
 
-import ex03.HttpConnector;
+import ex03.connector.http.HttpConnector;
 
 public class Bootstrap {
 
